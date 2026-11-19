@@ -14,11 +14,9 @@ I build games, web apps, and data tools. The projects below are public repositor
 
 ## Featured projects
 
-| Project | What it does | Links |
-|---|---|---|
-| BattleFight Legacy | Top-down team arena game built on the Taro engine. Includes a Windows portable build. | [Repo](https://github.com/OkayOkay101/BattleFightLegacy) · [Releases](https://github.com/OkayOkay101/BattleFightLegacy/releases/latest) |
-| DATAelectricWORKs | Streamlit app that analyzes electricity load profiles and simulates Time-of-Use (TOU) costs. | [Repo](https://github.com/OkayOkay101/DATAelectricWORKs) · [Releases](https://github.com/OkayOkay101/DATAelectricWORKs/releases) |
-| Auto Dev Crew | Local AI coding agent that turns GitHub issues into pull requests and scans repositories for improvements. | [Repo](https://github.com/OkayOkay101/auto-dev-crew-clean) |
+- **[BattleFight Legacy](https://github.com/OkayOkay101/BattleFightLegacy)**: Top-down team arena game built on the Taro engine. Includes a Windows portable build. [Releases](https://github.com/OkayOkay101/BattleFightLegacy/releases/latest)
+- **[DATAelectricWORKs](https://github.com/OkayOkay101/DATAelectricWORKs)**: Streamlit app that analyzes electricity load profiles and simulates Time-of-Use (TOU) costs. [Releases](https://github.com/OkayOkay101/DATAelectricWORKs/releases)
+- **[Auto Dev Crew](https://github.com/OkayOkay101/auto-dev-crew-clean)**: Local AI coding agent that turns GitHub issues into pull requests and scans repositories for improvements.
 
 All public repositories: [github.com/OkayOkay101](https://github.com/OkayOkay101?tab=repositories)
 
