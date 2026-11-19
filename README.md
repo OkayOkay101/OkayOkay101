@@ -1,6 +1,6 @@
 # Tanatep Promtee
 
-**Game developer** building games, web apps, and AI-assisted developer tools.
+**Game developer** · Python · JavaScript · AI-assisted dev tools
 
 **Languages:** **English** · [ภาษาไทย](README_TH.md)
 
