@@ -12,7 +12,6 @@
 
 | โปรเจกต์ | สิ่งที่ทำ | ลิงก์ |
 |---|---|---|
-| Cyberpunk Focus: Pomodoro Station | ตัวจับเวลา Pomodoro ธีมนีออนไซเบอร์พังก์ พร้อมเครื่องสังเคราะห์เสียงบรรยากาศ ทำงานบนเบราว์เซอร์ได้เลยโดยไม่ต้อง build | [Repo](https://github.com/OkayOkay101/cyberpunk-pomodoro) · [เดโมสด](https://okayokay101.github.io/cyberpunk-pomodoro/) |
 | BattleFight Legacy | เกมอารีน่าทีมแบบมุมมองจากด้านบน สร้างด้วย Taro engine มีไฟล์ Windows แบบพกพา | [Repo](https://github.com/OkayOkay101/BattleFightLegacy) · [Releases](https://github.com/OkayOkay101/BattleFightLegacy/releases/latest) |
 | DATAelectricWORKs | แอป Streamlit ที่วิเคราะห์ข้อมูลโหลดไฟฟ้า และจำลองค่าไฟแบบ Time-of-Use (TOU) | [Repo](https://github.com/OkayOkay101/DATAelectricWORKs) · [Releases](https://github.com/OkayOkay101/DATAelectricWORKs/releases) |
 | Auto Dev Crew | AI coding agent ที่ทำงานในเครื่อง รับงานจาก GitHub Issues แล้วเปิด Pull Request และสแกนหาจุดที่ควรปรับปรุง | [Repo](https://github.com/OkayOkay101/auto-dev-crew-clean) |
