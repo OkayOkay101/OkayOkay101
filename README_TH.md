@@ -8,6 +8,10 @@
 
 ผมทำเกม เว็บแอป และเครื่องมือด้านข้อมูล โปรเจกต์ด้านล่างเป็น repository สาธารณะ และแต่ละโปรเจกต์มี README ของตัวเอง
 
+**กำลังทำอยู่:** Auto Dev Crew (AI coding agent) และ BattleFight Legacy (เกมอารีน่าทีม)
+
+**ติดต่อ:** [GitHub](https://github.com/OkayOkay101) <!-- TODO: ใส่อีเมลหรือเว็บไซต์ได้เฉพาะเมื่อเจ้าของอนุญาต -->
+
 ## โปรเจกต์เด่น
 
 | โปรเจกต์ | สิ่งที่ทำ | ลิงก์ |
@@ -18,6 +22,6 @@
 
 โปรเจกต์สาธารณะทั้งหมดดูได้ที่ [github.com/OkayOkay101](https://github.com/OkayOkay101?tab=repositories)
 
-## ภาษาที่ใช้
+## เทคโนโลยีที่ใช้
 
 Repository สาธารณะใช้ Python, JavaScript, PHP, C#, Dart และ Lua เป็นต้น
