@@ -5,7 +5,7 @@
 **นักพัฒนาเกม** ที่สร้างเกม เว็บแอป และเครื่องมือจัดการข้อมูล
 นอกจากนี้ผมยังสร้างเครื่องมือพัฒนาที่ใช้ AI ช่วยงาน
 
-[English](README.md) · ภาษาไทย
+[English](README.md) · [ภาษาไทย](README_TH.md)
 
 <a href="https://github.com/OkayOkay101"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="โปรไฟล์ GitHub"></a>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
